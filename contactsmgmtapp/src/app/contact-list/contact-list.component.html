@@ -1,0 +1,68 @@
+<div class="container mt-4">
+  <button
+    type="button"
+    class="btn btn-success mb-3"
+    (click)="AddEditContact(-1)"
+  >
+    New
+  </button>
+
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Email</th>
+        <th>Edit</th>
+        <th>Delete</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of users; let i = index">
+        <td>{{ user.id }}</td>
+        <td>{{ user.firstName }}</td>
+        <td>{{ user.lastName }}</td>
+        <td>{{ user.email }}</td>
+        <td>
+          <!-- <button
+            type="button"
+            class="btn btn-primary"
+            (click)="onEdit(user.id)"
+          > -->
+          <button
+            type="button"
+            class="btn btn-primary"
+            (click)="AddEditContact(user.id)"
+          >
+            Edit
+          </button>
+        </td>
+        <td>
+          <button
+            type="button"
+            class="btn btn-danger"
+            (click)="onDelete(user.id)"
+          >
+            Delete
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div>
+  <table class="table table-bordered">
+    <tbody>
+      <tr>
+        <ng-container *ngIf="showAddEditContact">
+          <app-contact-add-edit
+            [id]="currentid"
+            (dataEmitter)="receiveData($event)"
+          ></app-contact-add-edit>
+        </ng-container>
+      </tr>
+    </tbody>
+  </table>
+</div>

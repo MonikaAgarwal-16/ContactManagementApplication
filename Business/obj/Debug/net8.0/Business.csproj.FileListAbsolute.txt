@@ -1,0 +1,17 @@
+D:\CMA\Business\bin\Debug\net8.0\Business.deps.json
+D:\CMA\Business\bin\Debug\net8.0\Business.dll
+D:\CMA\Business\bin\Debug\net8.0\Business.pdb
+D:\CMA\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMA\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+D:\CMA\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+D:\CMA\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+D:\CMA\Business\obj\Debug\net8.0\Business.dll
+D:\CMA\Business\obj\Debug\net8.0\refint\Business.dll
+D:\CMA\Business\obj\Debug\net8.0\Business.pdb
+D:\CMA\Business\obj\Debug\net8.0\ref\Business.dll
+D:\CMA\Business\bin\Debug\net8.0\Data.dll
+D:\CMA\Business\bin\Debug\net8.0\Model.dll
+D:\CMA\Business\bin\Debug\net8.0\Data.pdb
+D:\CMA\Business\bin\Debug\net8.0\Model.pdb
+D:\CMA\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+D:\CMA\Business\obj\Debug\net8.0\Business.csproj.Up2Date

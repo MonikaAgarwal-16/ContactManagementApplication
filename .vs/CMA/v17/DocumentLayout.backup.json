@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CMA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|d:\\cma\\cma\\contacts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|solutionrelative:cma\\contacts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|d:\\cma\\cma\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|solutionrelative:cma\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BE7D51-6E14-4273-98D7-C3697D3AD618}|Data\\Data.csproj|d:\\cma\\data\\contactdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BE7D51-6E14-4273-98D7-C3697D3AD618}|Data\\Data.csproj|solutionrelative:data\\contactdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BE7D51-6E14-4273-98D7-C3697D3AD618}|Data\\Data.csproj|d:\\cma\\data\\jsondatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BE7D51-6E14-4273-98D7-C3697D3AD618}|Data\\Data.csproj|solutionrelative:data\\jsondatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|d:\\cma\\cma\\globalexceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|solutionrelative:cma\\globalexceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|d:\\cma\\cma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|solutionrelative:cma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0015BA0F-D3DE-4557-9AEF-3F3AC7B9CDE7}|Business\\Business.csproj|d:\\cma\\business\\contactbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0015BA0F-D3DE-4557-9AEF-3F3AC7B9CDE7}|Business\\Business.csproj|solutionrelative:business\\contactbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|d:\\cma\\cma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|solutionrelative:cma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7D9C02-A43E-40AD-B101-FFC829939FB9}|Model\\Model.csproj|d:\\cma\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7D9C02-A43E-40AD-B101-FFC829939FB9}|Model\\Model.csproj|solutionrelative:model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|d:\\cma\\cma\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|solutionrelative:cma\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|d:\\cma\\cma\\cma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|solutionrelative:cma\\cma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|d:\\cma\\cma\\cma.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|solutionrelative:cma\\cma.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|d:\\cma\\cma\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C72294EB-9EEB-4ABF-93A5-9EB9428A0198}|CMA\\CMA.csproj|solutionrelative:cma\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BE7D51-6E14-4273-98D7-C3697D3AD618}|Data\\Data.csproj|d:\\cma\\data\\dependencyinjection\\datadependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BE7D51-6E14-4273-98D7-C3697D3AD618}|Data\\Data.csproj|solutionrelative:data\\dependencyinjection\\datadependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0015BA0F-D3DE-4557-9AEF-3F3AC7B9CDE7}|Business\\Business.csproj|d:\\cma\\business\\dependencyinjection\\businessdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0015BA0F-D3DE-4557-9AEF-3F3AC7B9CDE7}|Business\\Business.csproj|solutionrelative:business\\dependencyinjection\\businessdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BE7D51-6E14-4273-98D7-C3697D3AD618}|Data\\Data.csproj|d:\\cma\\data\\icontactdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BE7D51-6E14-4273-98D7-C3697D3AD618}|Data\\Data.csproj|solutionrelative:data\\icontactdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0015BA0F-D3DE-4557-9AEF-3F3AC7B9CDE7}|Business\\Business.csproj|d:\\cma\\business\\icontactbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0015BA0F-D3DE-4557-9AEF-3F3AC7B9CDE7}|Business\\Business.csproj|solutionrelative:business\\icontactbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonDataHelper.cs",
+              "DocumentMoniker": "D:\\CMA\\Data\\JsonDataHelper.cs",
+              "RelativeDocumentMoniker": "Data\\JsonDataHelper.cs",
+              "ToolTip": "D:\\CMA\\Data\\JsonDataHelper.cs",
+              "RelativeToolTip": "Data\\JsonDataHelper.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:16:49.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CMA\\CMA\\Program.cs",
+              "RelativeDocumentMoniker": "CMA\\Program.cs",
+              "ToolTip": "D:\\CMA\\CMA\\Program.cs",
+              "RelativeToolTip": "CMA\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:17:52.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contactcontroller.cs",
+              "DocumentMoniker": "D:\\CMA\\CMA\\Controllers\\Contactcontroller.cs",
+              "RelativeDocumentMoniker": "CMA\\Controllers\\Contactcontroller.cs",
+              "ToolTip": "D:\\CMA\\CMA\\Controllers\\Contactcontroller.cs",
+              "RelativeToolTip": "CMA\\Controllers\\Contactcontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:57:36.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\CMA\\Model\\Contact.cs",
+              "RelativeDocumentMoniker": "Model\\Contact.cs",
+              "ToolTip": "D:\\CMA\\Model\\Contact.cs",
+              "RelativeToolTip": "Model\\Contact.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:52:07.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CMA\\CMA\\appsettings.json",
+              "RelativeDocumentMoniker": "CMA\\appsettings.json",
+              "ToolTip": "D:\\CMA\\CMA\\appsettings.json",
+              "RelativeToolTip": "CMA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T07:33:48.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalExceptionHandling.cs",
+              "DocumentMoniker": "D:\\CMA\\CMA\\GlobalExceptionHandling.cs",
+              "RelativeDocumentMoniker": "CMA\\GlobalExceptionHandling.cs",
+              "ToolTip": "D:\\CMA\\CMA\\GlobalExceptionHandling.cs",
+              "RelativeToolTip": "CMA\\GlobalExceptionHandling.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:07:59.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactData.cs",
+              "DocumentMoniker": "D:\\CMA\\Data\\ContactData.cs",
+              "RelativeDocumentMoniker": "Data\\ContactData.cs",
+              "ToolTip": "D:\\CMA\\Data\\ContactData.cs",
+              "RelativeToolTip": "Data\\ContactData.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:01:59.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contacts.json",
+              "DocumentMoniker": "D:\\CMA\\CMA\\contacts.json",
+              "RelativeDocumentMoniker": "CMA\\contacts.json",
+              "ToolTip": "D:\\CMA\\CMA\\contacts.json",
+              "RelativeToolTip": "CMA\\contacts.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T07:37:08.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IContactData.cs",
+              "DocumentMoniker": "D:\\CMA\\Data\\IContactData.cs",
+              "RelativeDocumentMoniker": "Data\\IContactData.cs",
+              "ToolTip": "D:\\CMA\\Data\\IContactData.cs",
+              "RelativeToolTip": "Data\\IContactData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:00:45.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactBusiness.cs",
+              "DocumentMoniker": "D:\\CMA\\Business\\ContactBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\ContactBusiness.cs",
+              "ToolTip": "D:\\CMA\\Business\\ContactBusiness.cs",
+              "RelativeToolTip": "Business\\ContactBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:00:33.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CMA.http",
+              "DocumentMoniker": "D:\\CMA\\CMA\\CMA.http",
+              "RelativeDocumentMoniker": "CMA\\CMA.http",
+              "ToolTip": "D:\\CMA\\CMA\\CMA.http",
+              "RelativeToolTip": "CMA\\CMA.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-14T07:33:12.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CMA\\CMA\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CMA\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\CMA\\CMA\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CMA\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T07:44:47.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CMA.csproj",
+              "DocumentMoniker": "D:\\CMA\\CMA\\CMA.csproj",
+              "RelativeDocumentMoniker": "CMA\\CMA.csproj",
+              "ToolTip": "D:\\CMA\\CMA\\CMA.csproj",
+              "RelativeToolTip": "CMA\\CMA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T07:38:37.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AgIAAMcAAAAAAAAAAAApwOAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-14T07:43:37.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\CMA\\CMA\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CMA\\appsettings.Development.json",
+              "ToolTip": "D:\\CMA\\CMA\\appsettings.Development.json",
+              "RelativeToolTip": "CMA\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T07:33:53.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BusinessDependencies.cs",
+              "DocumentMoniker": "D:\\CMA\\Business\\DependencyInjection\\BusinessDependencies.cs",
+              "RelativeDocumentMoniker": "Business\\DependencyInjection\\BusinessDependencies.cs",
+              "ToolTip": "D:\\CMA\\Business\\DependencyInjection\\BusinessDependencies.cs",
+              "RelativeToolTip": "Business\\DependencyInjection\\BusinessDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:21:28.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataDependencies.cs",
+              "DocumentMoniker": "D:\\CMA\\Data\\DependencyInjection\\DataDependencies.cs",
+              "RelativeDocumentMoniker": "Data\\DependencyInjection\\DataDependencies.cs",
+              "ToolTip": "D:\\CMA\\Data\\DependencyInjection\\DataDependencies.cs",
+              "RelativeToolTip": "Data\\DependencyInjection\\DataDependencies.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:23:26.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IContactBusiness.cs",
+              "DocumentMoniker": "D:\\CMA\\Business\\IContactBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\IContactBusiness.cs",
+              "ToolTip": "D:\\CMA\\Business\\IContactBusiness.cs",
+              "RelativeToolTip": "Business\\IContactBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:58:31.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

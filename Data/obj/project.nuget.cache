@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eo5T91dzlAI=",
+  "success": true,
+  "projectFilePath": "D:\\CMA\\Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monika.agarwal\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\monika.agarwal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\monika.agarwal\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+@CMA_HostAddress = http://localhost:5064
+
+GET {{CMA_HostAddress}}/Contact/
+Accept: application/json
+
+###

@@ -1,0 +1,67 @@
+<div class="container mt-5">
+  <h2 *ngIf="!isEditMode">Add Item</h2>
+  <h2 *ngIf="isEditMode">Edit Item</h2>
+  <form [formGroup]="form" (ngSubmit)="onSubmit()">
+    <div class="mb-3">
+      <label for="firstName" class="form-label">First Name</label>
+      <input
+        type="text"
+        id="firstName"
+        formControlName="firstName"
+        class="form-control"
+      />
+      <label
+        *ngIf="formControls.firstName.touched && formControls.firstName.invalid"
+        for="firstName"
+        class="form-label text-danger"
+        >First Name is required.</label
+      >
+    </div>
+    <div class="mb-3">
+      <label for="lastName" class="form-label">Last Name</label>
+      <input
+        type="text"
+        id="lastName"
+        formControlName="lastName"
+        class="form-control"
+      />
+      <label
+        *ngIf="formControls.lastName.touched && formControls.lastName.invalid"
+        for="lastName"
+        class="form-label text-danger"
+        >Last Name is required.</label
+      >
+    </div>
+
+    <div class="mb-3">
+      <label for="email" class="form-label">Email</label>
+      <input
+        type="text"
+        id="email"
+        formControlName="email"
+        class="form-control"
+      />
+
+      <span *ngIf="formControls.email.touched && formControls.email.invalid">
+        <label
+          *ngIf="formControls.email.errors.required"
+          for="email"
+          class="form-label text-danger"
+          >Please enter email address.</label
+        >
+        <label
+          *ngIf="formControls.email.errors.email"
+          for="email"
+          class="form-label text-danger"
+          >Please enter valid email address.</label
+        >
+      </span>
+    </div>
+    <button type="submit" class="btn btn-primary mr-3">
+      {{ isEditMode ? "Update" : "Add" }}
+    </button>
+    <button type="button" class="btn btn-light" (click)="onCancel()">
+      Cancel
+    </button>
+  </form>
+</div>
